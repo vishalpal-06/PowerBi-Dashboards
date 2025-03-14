@@ -18,8 +18,8 @@ This project involves the creation of an interactive Amazon Sales Dashboard usin
 - The status filter allows users to identify orders stuck in stages like "Pending" or "Out for Delivery," helping to improve logistics and customer satisfaction.
 
 
-![alt text](Home_Page.png)
+![alt text](Dashboard-View/Home_Page.png)
 
 ====================================================================================================================================================================================================================================================================================
 
-![alt text](Product_Page.png)
+![alt text](Dashboard-View/Product_Page.png)

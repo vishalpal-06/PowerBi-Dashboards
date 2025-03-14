@@ -1,5 +1,5 @@
 # Zomato Dashboard
-![alt text](Home-Page.png) 
-![alt text](Overview-Page.png) 
-![alt text](User-Performance-Page.png)
-![alt text](City-Performance-Page.png) 
+![alt text](Dashboard-View/Home-Page.png) 
+![alt text](Dashboard-View/Overview-Page.png) 
+![alt text](Dashboard-View/User-Performance-Page.png)
+![alt text](Dashboard-View/City-Performance-Page.png) 
